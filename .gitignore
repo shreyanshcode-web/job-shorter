@@ -1,0 +1,12 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.next/
+dist/
+build/
+postgres_data/
+qdrant_data/
+neo4j_data/
