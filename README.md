@@ -175,6 +175,11 @@ npm install
 npm run dev -- --hostname 127.0.0.1 --port 3000
 ```
 
+Live Deployment Links:
+
+Frontend Web App: https://job-shorter-frontend-nzdvaep3ha-uc.a.run.app
+Backend API: https://job-shorter-backend-nzdvaep3ha-uc.a.run.app
+
 ## Notes
 
 - The current implementation uses seeded profiles from `backend/app/seed.py`.
